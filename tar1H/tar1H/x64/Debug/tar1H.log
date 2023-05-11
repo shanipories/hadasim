@@ -1,0 +1,3 @@
+﻿  tar1H.cpp
+C:\Users\Administrator\Desktop\תכנות שני\tar1H\tar1H\tar1H.cpp(95,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  tar1H.vcxproj -> C:\Users\Administrator\Desktop\תכנות שני\tar1H\x64\Debug\tar1H.exe
